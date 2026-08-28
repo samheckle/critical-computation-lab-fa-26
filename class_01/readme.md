@@ -83,17 +83,38 @@ Every class will include one or multiple sketches that you will be making in the
 
 <img src="../images/make-a-sketch.webp" style="width:600px" />
 
-#### General Flow
+#### General Flow: How to Submit Homework & Share Work
 
-| How to submit homework                                                                                                                           |                                                                                            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
-| 1. After creating a new sketch, get in the habit of always saving your sketch first (you can also press ⌘+S or Ctrl+S)                           | <img src="../images/save.webp" style="width=600px" />                                      |
-| 2. Name your sketch something useful. For now, we don't need to modify any of the other settings but you are welcome to change them as needed.   | <img src="../images/save-settings.webp" style="width=600px" />                             |
-| 3. On saving, it will take you to the "Play" tab. This is how you can test your code.                                                            | ![play](../images/play.webp)                                                               |
-| 4. Navigate back to the code tab. This is where we will write our code for each project.                                                         | ![code](../images/code.webp)                                                               |
-| 5. You can add a "live preview" by changing the layout. *This only needs to be done once.*                                                       | ![enable live preview](../images/live-preview.webp)                                        |
-| 6. Write your code / Finish your assignment...                                                                                                   |                                                                                            |
-| 7. To submit your assignments, you can click the "Share" button in the upper right corner.                                                       | ![share](../images/share.webp)                                                             |
-| 8. There are a couple of different avenues to share your work.                                                                                   |                                                                                            |
-| 8a. For each assignment, you will add your sketch to the assignment group.                                                                       | ![choose class](../images/add-to-class.webp)<br>![choose class](../images/choose.webp)<br> |
-| 8b. For any misc links you would like to share, you can generate a unique link. I will ask you to do this at the end of pretty much every class. | ![create](../images/create-link.webp)<br>![link](../images/link.webp)                      |
+1. After creating a new sketch, get in the habit of always saving your sketch first (you can also press ⌘+S or Ctrl+S)
+
+<img src="../images/save.webp" style="width=600px" />
+
+2. Name your sketch something useful. For now, we don't need to modify any of the other settings but you are welcome to change them as needed.
+
+<img src="../images/save-settings.webp" style="width=600px" />
+
+3. On saving, it will take you to the "Play" tab. This is how you can test your code.
+
+![play](../images/play.webp)
+
+4. Navigate back to the code tab. This is where we will write our code for each project.
+
+![code](../images/code.webp)
+
+5. You can add a "live preview" by changing the layout. *This only needs to be done once.*
+
+![enable live preview](../images/live-preview.webp)
+
+### 6. Write your code / Finish your assignment...
+
+7. To submit your assignments, you can click the "Share" button in the upper right corner.
+
+![share](../images/share.webp)
+
+8. There are a couple of different avenues to share your work.
+
+
+| 8a. For each assignment, you will add your sketch to the assignment group. | 8b. For any misc links you would like to share, you can generate a unique link. I will ask you to do this at the end of pretty much every class.<br><br><br> |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| ![choose class](../images/add-to-class.webp)                               | ![create](../images/create-link.webp)<br>                                                                                                                    |
+| ![choose class](../images/choose.webp)                                     | ![link](../images/link.webp)                                                                                                                                 |
