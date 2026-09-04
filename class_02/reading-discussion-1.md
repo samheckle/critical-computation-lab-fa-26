@@ -1,0 +1,14 @@
+- How can we improve AI without actually making it dangerous? What are the potential scope and constraints around AI?
+- intelligence should not be influenced by human conceptions of intelligence "calculability"
+- AI/technology is perceived as monolithic. Can't expect to think about technology as an echo chamber
+- Every era of technology should focus on holistic design, instead of single developments in single research area
+- "Technology is inherently tied to cultural contexts from which it emerges. Technology is not culturally neutral, it adapts human biases into its design."
+- Existing platforms could be made more democratic. 
+	- ‼️ What does governance look like in digital spaces?
+- "noodiversity" - thoughts?
+- Rise of analog technology in response to digital technology?
+- Power grab of AI → digitization focusing on data & mathematical computation
+- Data poisoning! How can we effectively infect datasets?
+- Which technology is built for whom? In what contexts?
+	- Critical Technology Manifesto: technology has consequences and designers have responsibilities to manage those consequences
+- "To safeguard democracy and the rule of law, it is imperative to develop robust mechanisms for fact-checking, promote digital literacy, and implement regulations that foster ethical and responsible uses for new technology."

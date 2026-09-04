@@ -16,7 +16,7 @@ Introduce yourself:
 1. Name
 2. Pronouns
 3. Where did you come from / what were you doing before grad school?
-4. 1 sentence takeaway or quote from the reading, which will be added to the [reading discussion]()
+4. 1 sentence takeaway or quote from the reading, which will be added to the [reading discussion](https://github.com/samheckle/critical-computation-lab-fa-26/blob/main/class_02/reading-discussion-1.md)
 
 ## Review: 2D shapes
 
