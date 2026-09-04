@@ -252,4 +252,4 @@ h = Number: height of the rectangle          = 300
 	- These use the `p5.js` web editor (whereas we use OpenProcessing), but the functionality of the code is the same even if writing it looks different. It is similar to comparing Microsoft Word (`p5.js` web editor) and Google Docs (OpenProcessing). 
 ### Demos
 
-[will be populated after class]
+- [Class 1 Demo](oppr.org/s/6jTfZHcj)
