@@ -10,6 +10,14 @@
 
 ## Reading Discussion
 
+> As well as asking, "What is the answer to this new form of the question," one may ask, "Is this new question a worthy one to investigate?" - Alan Turing, [Computing Machinery and Intelligence](https://cbmm.mit.edu/sites/default/files/documents/turing.pdf) (1950)
+
+Introduce yourself:
+1. Name
+2. Pronouns
+3. Where did you come from / what were you doing before grad school?
+4. 1 sentence takeaway or quote from the reading, which will be added to the [reading discussion]()
+
 ## Review: 2D shapes
 
 Create a new sketch and recreate this image:
