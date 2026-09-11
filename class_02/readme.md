@@ -18,6 +18,14 @@ Introduce yourself:
 3. Where did you come from / what were you doing before grad school?
 4. 1 sentence takeaway or quote from the reading, which will be added to the [reading discussion](https://github.com/samheckle/critical-computation-lab-fa-26/blob/main/class_02/reading-discussion-1.md)
 
+Links mentioned:
+-  https://subject.space/
+- https://www.bellingcat.com/
+- https://www.404media.co/
+- https://en.wikipedia.org/wiki/Cybernetics
+- https://permacomputing.net/
+	- there are monthly nyc meetups: https://nyc.permacomputing.net/
+
 ## Review: 2D shapes
 
 Create a new sketch and recreate this image:
