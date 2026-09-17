@@ -16,6 +16,13 @@ We distinguish between them because `p5.js` is a particular framework in which w
 |        | comment                   | a note embedded inside of code                                                                                  |
 |        | function                  | an instruction or command, may or may not have **_parameters_**, also known as _method_                         |
 |        | parameter                 | value that is passed into the `()` of the function, also known as _arguments_                                   |
+| Week 4 | expression                | a unit of code that resolves to a value, eg. `1 + 3`                                                            |
+|        | operator                  | syntax for expression, eg. in the above expression the operator is `+`                                          |
+|        | variable                  | name for placeholder piece of data                                                                              |
+|        | declaration               | uses the keyword `let` to give a variable a name                                                                |
+|        | assignment                | gives a value to a variable name using `=`                                                                      |
+|        | camel case                | the first letter of the first word is lowercase, and every word after that has uppercase                        |
+|        | scope                     | where variables exist. can be global or local inside `{}`                                                       |
 ## `p5.js` Glossary
 
 | Week   | Term      | Definition                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
