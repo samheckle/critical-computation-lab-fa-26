@@ -13,7 +13,11 @@
 1. Grab a snack
 2. Created the [anonymous feedback form](https://forms.gle/R5eApKu6CwFgb2S46) for any questions/concerns/needs you may have that you would like to be addressed. 
 3. Upcoming assignments: #4 Part 2, #5 Part 1
-	1. Please make sure to reply to the associated discussion posts with the completed work.
+	- Please make sure to reply to the associated discussion posts with the completed work.
+4. Upcoming events:
+   	- Saturday 10/3 NYC Processing Community Day: [Schedule](https://www.pcd2026.nyc/) | [Free RSVP](https://www.eventbrite.com/e/processing-community-day-2026-nyc-tickets-1995608029336). If you attend, send me an email with things you learned / saw / inspired by from the day and I will give extra credit. I am also running a workshop at 4pm so come say hi.
+   	- Monday 10/5 Volvox Labs Field Trip : [Free RSVP](https://narwhalnation.newschool.edu/event/12776851)
+
 ## Share Assignment #3 [Part 2]
 
 Anything need to be added to our [critique ground rules](https://cryptpad.fr/doc/#/2/doc/edit/B3C3-Z+7rBZl0vERc2Z628v+/)?
