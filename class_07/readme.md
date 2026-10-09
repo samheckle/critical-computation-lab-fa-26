@@ -17,7 +17,8 @@
 Anything need to be added to our [critique ground rules](https://cryptpad.fr/doc/#/2/doc/edit/B3C3-Z+7rBZl0vERc2Z628v+/)?
 
 - In groups of 3, share your work, following our [critique structure](https://github.com/samheckle/critical-computation-lab-fa-26/tree/main/class_03#structure-of-critique) for ~15 minutes
-- After you are done sharing, pick a person from your group to share their project with the class. These should **not** be the same people who shared previously (Andrea, Ray, Lena, )
+- After you are done sharing, pick a person from your group to share their project with the class. These should **not** be the same people who shared previously (Andrea, Ray, Lena, Luzie, Nismah, Alice)
+  
 ## Tutorial: Repetition and Loops
 
 ### In Class 7 Practice 1
@@ -25,7 +26,7 @@ Anything need to be added to our [critique ground rules](https://cryptpad.fr/doc
 Begin by making a new sketch titled "In Class 7 Practice 1".
 
 - Create 4 columns
-- With an if-statement, make a single column turn red when you hover over it. Each column should _not_ have a fill until they are hovered. They can either have `noFill()` or a fill of white.
+- With an if-statement, make each individual column turn red when you hover over it. Each column should _not_ have a fill until they are hovered. They can either have `noFill()` or a fill of white.
 
 ### Identifying Patterns
 
