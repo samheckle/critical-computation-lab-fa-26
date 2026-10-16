@@ -17,8 +17,12 @@
 Anything need to be added to our [critique ground rules](https://cryptpad.fr/doc/#/2/doc/edit/B3C3-Z+7rBZl0vERc2Z628v+/)?
 
 - In groups of 3, share your work, following our [critique structure](https://github.com/samheckle/critical-computation-lab-fa-26/tree/main/class_03#structure-of-critique) for ~15 minutes
+<<<<<<< Updated upstream
 - After you are done sharing, pick a person from your group to share their project with the class. These should **not** be the same people who shared previously (Andrea, Ray, Lena, Luzie, Nismah, Alice)
   
+=======
+- After you are done sharing, pick a person from your group to share their project with the class. These should **not** be the same people who shared previously.
+>>>>>>> Stashed changes
 ## Tutorial: Repetition and Loops
 
 ### In Class 7 Practice 1
