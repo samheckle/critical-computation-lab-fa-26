@@ -20,7 +20,8 @@
 		- *Note:* You can use your newschool account, but add a backup email!
 3. Upcoming assignment: #8 Part 1
 
-## Introduction to HTML
+---
+## Quick Reference
 
 | coding glossary |                                                                                                                                           |
 | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
@@ -56,11 +57,11 @@ HTML follows a particular structure. The first tag we always use in an HTML file
 
 In the OpenProcessing Editor, change the mode to `HTML/CSS/JS`
 
-![html-css-js](html-css-js.png)
+![html-css-js](../images/html-css-js.png)
 
 If we open up the HTML file, we can see the web code:
 
-![html](html.png)
+![html](../images/html.png)
 
 ### Head and Body Tags
 
