@@ -13,6 +13,7 @@
 
 1. Attendance
 2. Upcoming assignment: #8 Part 2
+3. No class Nov 27 - Thanksgiving
 
 ## Assignment #8 Part 1
 
